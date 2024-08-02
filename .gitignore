@@ -1,0 +1,4 @@
+.env
+images
+face_recognition_results.txt
+safe_search_results.txt
